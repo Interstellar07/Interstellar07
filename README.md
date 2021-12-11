@@ -4,14 +4,14 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm an Undergraduate at NIT Jaipur.<br/>I specialize in App-Development and Competitive Programming.<br> When i am not working , You will find me at Comic stores reading Sci-Fi Novels.<br></p><br/>
+<p align="center">I'm an ECE Undergraduate at NIT Silchar.<br/>I specialize in App-Development and Competitive Programming.<br> When i am not working , You will find me at Comic stores reading Sci-Fi Novels.<br></p><br/>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/Interstellar07"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Exactly About Me</h2></summary>
 
-- I'm Sophomore at NIT Jaipur.
+- ECE Sophomore at NIT Silchar.
 - Rated 3 Stars on CodeChef Platofrm.
 - Bagged title of Youngest Game Developer of Tizen OS.
 - Published 2 Apps on Play Store with 5K+ Downloads.

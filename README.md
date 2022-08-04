@@ -8,7 +8,7 @@
 
 <p align = "center"><a href="https://www.buymeacoffee.com/Interstellar07"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
-<summary><h2> /> Exactly About Me</h2></summary>
+<summary><h2>About Me</h2></summary>
 
 - ECE Sophomore at NIT Silchar.
 - Rated 3 Stars on CodeChef Platofrm.
@@ -16,8 +16,7 @@
 - Published 2 Apps on Play Store with 1K+ Downloads.
 - Got Featured in UK's Leadind teachnical Blog Site (https://bit.ly/3nwUh6R).
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
+<summary><h2>To connect with me</h2></summary>
 
 <p align = "center">
  

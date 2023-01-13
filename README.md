@@ -6,7 +6,7 @@
 
 <summary><h2>About Me</h2></summary>
 
-- ECE Sophomore at NIT Silchar.
+- ECE Undergraduate at NIT Silchar.
 - Rated 3 Stars on CodeChef Platofrm.
 - Bagged title of Youngest Game Developer of Tizen OS.
 - Published 2 Apps on Play Store with 1K+ Downloads.
@@ -29,7 +29,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" />  
 
 </div>  
-<summary><h2>onnect with me</h2></summary>
+<summary><h2>Connect with me</h2></summary>
 
 <p align = "center">
  

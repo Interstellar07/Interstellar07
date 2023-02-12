@@ -1,6 +1,6 @@
 <h1><p align="center">Hello, I'm Sameer Zaidi! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<p align="center">I'm an ECE Undergraduate at NIT Silchar.<br/>I specialize in App-Development and Competitive Programming.<br> When I am not into something , You will find me at in blankets watching Sci-Fi Videos.<br></p><br/>
+<p align="center">I'm an ECE Undergraduate at NIT Silchar.<br/>I specialize in App-Development and Competitive Programming.<br> When I am not into something , You will find me in blankets watching Sci-Fi Videos.<br></p><br/>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/Interstellar07"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 

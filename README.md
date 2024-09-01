@@ -1,6 +1,6 @@
 <h1><p align="center">Hello, I'm Sameer Zaidi! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<p align="center">I'm an ECE Undergraduate at NIT Silchar.<br/>I specialize in App-Development and Competitive Programming.<br> When I am not into something , You will find me in blankets watching Sci-Fi Videos.<br></p><br/>
+<p align="center">I'm an ECE Undergraduate at NIT Silchar.<br/>I specialize in App-Development and DSA.<br> When I am not into something, You will find me watching Sci-Fi Videos.<br></p><br/>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/Interstellar07"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
@@ -9,8 +9,8 @@
 - ECE Undergraduate at NIT Silchar.
 - Rated 3 Stars on CodeChef Platofrm.
 - Bagged title of Youngest Game Developer of Tizen OS.
-- Published 2 Apps on Play Store with 1K+ Downloads.
-- Got Featured in UK's Leadind teachnical Blog Site (https://bit.ly/3nwUh6R).
+- Published 2 Apps on Play Store with 5K+ Downloads.
+- Got Featured in the UK's Leading technical Blog Site (https://bit.ly/3nwUh6R).
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Interstellar07&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
 

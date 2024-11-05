@@ -16,10 +16,6 @@
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-<div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Interstellar07&theme=dark" alt="HrugVed" /></p>
-</div>
-
 <summary><h2> My Tools</h2></summary>
 <div align="center">  
 <img style="margin: 10px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="Express.js" height="35" />    

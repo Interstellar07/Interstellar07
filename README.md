@@ -12,7 +12,7 @@
 - Published 2 Apps on Play Store with 5K+ Downloads.
 - Got Featured in the UK's Leading technical Blog Site (https://bit.ly/3nwUh6R).
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Interstellar07&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
+
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
